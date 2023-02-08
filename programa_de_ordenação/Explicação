@@ -1,0 +1,13 @@
+#Explicação
+
+Eu compilo meus códigos usando o gcc com os seguintes dois comandos:
+
+1° -> gcc main.c sort.c -o main
+
+-------------------------------
+
+2° -> gcc main.c sort.c -c 
+      gcc main.o sort.o -o main
+      
+
+Depois eu rodo o executavel normalmente.
